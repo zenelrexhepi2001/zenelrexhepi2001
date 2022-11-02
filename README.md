@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zenel Rexhepi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React js and vue 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me // zenel.rexhepi2001@gmail.com
 
